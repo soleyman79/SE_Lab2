@@ -1,6 +1,6 @@
 package software;
 
-public class Rectangle {
+public class Rectangle implements Shape {
     private int width;
     private int height;
 
@@ -9,6 +9,7 @@ public class Rectangle {
         this.height = height;
     }
 
+    @Override
     public int calculateArea() {
         return this.width * this.height;
     }
