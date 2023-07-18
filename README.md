@@ -1,2 +1,5 @@
-# SE_Lab2
-This repository includes codes and documentations about second section of software engineering lab.
+# آزمایش دوم: SOLID
+## استفاده از روش TDD
+ایجاد این پروژه به کمک روش Test Driven Development یا همان TDD انجام شده است. ابزار مورد استفاده نیز Junit می‌باشد.
+## پاسخ پرسش‌ها
+به زودی...
