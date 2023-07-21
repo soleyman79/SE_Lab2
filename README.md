@@ -6,6 +6,20 @@
 
 ![1](https://github.com/soleyman79/SE_Lab2/assets/59166192/e6f5bebd-84b2-4c96-bb17-5edbbf35bef0)
 
+همانطور که در تصویر زیر مشاهده می‌شود، نمونه‌ای از stage کردن تغییرات و کامیت کردن و پوش کردن به سرور ریموت گیتهاب قرار داده شده است:
+
+![2](https://github.com/soleyman79/SE_Lab2/assets/59166192/3aa77d20-8b90-4d4f-ab9d-d382c31d35a4)
+
+در ادامه، چون مطابق دستور کار باید از Test Driven Development استفاده کنیم. بنابراین، ابتدا تست‌ها را می‌نویسیم و چون در ابتدا کدی وجود ندارد، طبیعتا تست‌ها رد می‌شوند و به compile error برخورد می‌کنیم:
+
+![3](https://github.com/soleyman79/SE_Lab2/assets/59166192/e11dd3d4-bddb-4908-a6fe-4d147fd53e5f)
+
+می‌خواهیم در ادامه مسیر، تلاش کنیم که به compile error برخورد نکنیم. پس بدنه کلی توابع کلاس مستطیل را بدون پیاده‌سازی قرار می‌دهیم تا صرفا compile error رفع شود:
+
+![4](https://github.com/soleyman79/SE_Lab2/assets/59166192/f7a9723b-a0de-49bd-a8e3-411023bf8b6a)
+
+
+
 ## پاسخ پرسش‌ها
 + هر یک از پنج اصل **SOLID** را در دو الی سه خط توضیح دهید.
   + اصل Single Responsibility Principle یا **SRP**
